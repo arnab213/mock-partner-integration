@@ -1,0 +1,27 @@
+# Maven
+.target/
+.project
+.settings/
+.metadata/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.metadata/
+.project
+.settings/
+
+# Spring Boot
+BOOT-INF/
+build/
+
+# MySQL
+mysql-connector-java-*.jar
